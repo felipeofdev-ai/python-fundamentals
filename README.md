@@ -101,3 +101,18 @@ Experience with Python for automation and backend logic
 Strong focus on clean code and fundamentals
 
 Continuously evolving toward advanced backend and AI-driven systems
+
+🚀 Next Steps (Planned Improvements)
+
+Advanced OOP patterns
+
+Error handling and exceptions
+
+File I/O examples
+
+Unit testing (pytest)
+
+Small real-world mini-projects
+
+⭐ If you are a recruiter or technical reviewer:
+This repository represents how I think, structure, and write code — not just what I know.
