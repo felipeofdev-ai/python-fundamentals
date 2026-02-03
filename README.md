@@ -1,85 +1,103 @@
-# 🐍 Python Core Fundamentals (Applied)
+🐍 Python Fundamentals — Solid Foundations for Real-World Development
 
-Core Python concepts implemented with **clean code practices**, focused on building a strong foundation for backend, automation, and data-driven systems.
+A clean, well-structured repository demonstrating strong Python fundamentals, best practices, and readiness for professional software development.
 
-This repository demonstrates how fundamental Python concepts are applied in a **structured and production-oriented way**, not just theoretical examples.
+📌 Overview
 
----
+This repository was created to demonstrate core Python knowledge through clear, practical, and well-organized examples.
 
-## 👋 Overview
+It reflects how I write code in real projects:
 
-This project consolidates essential Python concepts used daily in real-world development, including:
+Readable
 
-- clean function design
-- control flow and logic
-- data structures
-- object-oriented programming
-- basic testing mindset
+Maintainable
 
-The goal is to demonstrate **engineering fundamentals**, not just language syntax.
+Logical
 
----
+Focused on clarity and correctness
 
-## 🧠 Topics Covered
+Although it covers fundamentals, the structure and approach follow professional development standards, making it suitable for recruiters and technical reviewers evaluating Python proficiency.
 
-### Core Python
-- Variables and data types
-- Conditional logic and loops
-- Functions and arguments
-- Basic object-oriented programming (OOP)
+🧠 What This Repository Demonstrates
 
-### Code Quality
-- Clear naming and structure
-- Readable, maintainable code
-- Modular organization
+✔ Solid understanding of Python core concepts
+✔ Clean and readable code style
+✔ Logical thinking and problem decomposition
+✔ Consistent naming and organization
+✔ Readiness to work with real-world backend and automation projects
 
-### Practice
-- Mini challenges to reinforce logic and problem-solving
-
----
-
-## 📁 Project Structure
-
-```text
+📂 Project Structure
 python-fundamentals/
-├── core/          # Core Python concepts as reusable modules
-├── exercises/     # Practical mini-challenges
-├── tests/         # Basic automated tests (in progress)
-└── README.md
-🚀 How to Run
+│
+├── data_types.py        # Variables and core data types
+├── conditionals.py      # if / elif / else logic
+├── loops.py             # for and while loops
+├── functions.py         # Function definitions and reuse
+├── oop_basics.py        # Object-Oriented Programming fundamentals
+├── exercises.py         # Practical exercises and logic practice
+├── requirements.txt     # Project dependencies (minimal by design)
+└── README.md            # Project documentation
 
-Make sure you have Python 3.10+ installed.
 
-Run any module individually:
-python core/data_types.py
-python core/control_flow.py
-python core/functions.py
-python core/oop.py
-Run exercises:
-python exercises/mini_challenges.py
-🧪 Tests (early stage)
+Each file is self-contained, easy to read, and focused on a single concept.
 
-Basic tests are being added to validate core logic:
-pytest tests/
-🎯 Why This Repository Exists
+📚 Topics Covered
 
-This repository is part of my broader backend and automation portfolio.
+Variables and data types
 
-It exists to show:
+Conditional statements
 
-solid Python foundations
+Loops and iteration
 
-attention to code clarity
+Functions and code reuse
 
-readiness to evolve code into larger systems
+Basic Object-Oriented Programming (OOP)
 
-For applied projects using APIs, AI, and automation, see my other repositories.
+Practical logic exercises
 
-👤 Author
+▶️ How to Run
 
-Felipe Fernandes
-Python Developer • Backend • Automation • Generative AI
+Make sure you have Python 3.8+ installed.
 
-🔗 GitHub: https://github.com/felipeofdev-ai
+Run any file individually:
 
-🔗 LinkedIn: https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/
+python data_types.py
+python conditionals.py
+python loops.py
+python functions.py
+python oop_basics.py
+python exercises.py
+
+
+No complex setup required — the focus here is on core logic and clarity.
+
+🎯 Why This Repository Matters
+
+This project is intentionally simple in scope but strong in execution.
+
+It shows:
+
+A developer who masters the basics
+
+Code written with professional discipline
+
+A mindset focused on learning, clarity, and scalability
+
+Strong fundamentals are what allow developers to:
+
+Learn frameworks faster
+
+Write safer code
+
+Scale to complex systems
+
+👨‍💻 About the Author
+
+Felipe Oliveira
+Python Developer | Backend | Automation | AI
+
+Experience with Python for automation and backend logic
+
+Strong focus on clean code and fundamentals
+
+Continuously evolving toward advanced backend and AI-driven systems
