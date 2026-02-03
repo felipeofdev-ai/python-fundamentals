@@ -1,24 +1,30 @@
 # Python Fundamentals
 
 This repository contains fundamental Python concepts with clear and practical examples.
-It is intended to demonstrate solid programming foundations and clean code practices.
+It demonstrates solid programming foundations and clean code practices.
 
----
-
-## 📚 Topics Covered
+## Topics Covered
 
 - Variables and data types
 - Conditional statements
 - Loops
 - Functions
-- Basic Object-Oriented Programming
-- File handling
+- Practice exercises
 
----
-
-## ▶️ How to Run
+## How to Run
 
 Make sure you have Python 3 installed.
 
+Run any file individually, for example:
+
 ```bash
-python filename.py
+python data_types.py
+python conditionals.py
+python loops.py
+python functions.py
+python exercises.py
+
+Author
+
+Felipe Oliveira
+Python Developer | Backend | Automation | Generative AI
